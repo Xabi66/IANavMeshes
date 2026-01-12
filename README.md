@@ -17,7 +17,7 @@ Lista de cambios:
 - Engadido un novo NPC chamado **FakeJane** e creado empregando o modelo do xogador, deformandoo e asignandolle compoñentes similares aos dos chompers.
 - Engadido un novo script *FakeJaneController* a partir do script *AIController.cs*
 
-[Ligazón](https://exemplo.com)
+[Ligazón](https://github.com/Xabi66/IANavMeshes/blob/main/Assets/Scripts/FakeJaneController.cs)
 
 
 ```csharp
